@@ -1,1 +1,1 @@
-# House Rental Management System
+# DBMS Lab Project
